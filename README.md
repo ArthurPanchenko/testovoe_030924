@@ -3,7 +3,7 @@
 Задание 1
    Нужно описать модели игрока и бустов с возможностью начислять игроку бусты за прохождение уровней или вручную.
 
-  Модель игрока \n
+  Модель игрока <br>
   <img src="https://github.com/user-attachments/assets/82542e0e-5ae7-447e-a49f-c5342832ab20" width="500">
    ![image](https://github.com/user-attachments/assets/82542e0e-5ae7-447e-a49f-c5342832ab20)
   Модель бустов
