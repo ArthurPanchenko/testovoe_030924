@@ -4,7 +4,8 @@
    Нужно описать модели игрока и бустов с возможностью начислять игроку бусты за прохождение уровней или вручную.
 
   Модель игрока \n
-   ![image](https://github.com/user-attachments/assets/82542e0e-5ae7-447e-a49f-c5342832ab20 =700x500)
+  <img src="https://github.com/user-attachments/assets/82542e0e-5ae7-447e-a49f-c5342832ab20" width="500">
+   ![image](https://github.com/user-attachments/assets/82542e0e-5ae7-447e-a49f-c5342832ab20)
   Модель бустов
   ![image](https://github.com/user-attachments/assets/ebb2a0c9-6935-4fce-b3f8-1f8638be4fef)
   Связующая модель 
