@@ -14,23 +14,12 @@
    Написать два метода
       Присвоение игроку приза за прохождение уровня.
       Выгрузку в csv следующих данных: id игрока, название уровня, пройден ли уровень, полученный приз за уровень. Учесть, что записей может быть 100 000 и более.
-
     Первая часть 
-    <img src="https://github.com/user-attachments/assets/a812940e-1e62-4439-8395-f07c6d756572"></img>
     ![image](https://github.com/user-attachments/assets/786c3049-49d8-46f6-8bdd-e06437d23716)
-    ![image](https://github.com/user-attachments/assets/a812940e-1e62-4439-8395-f07c6d756572)
-
-
-
     Запросы
     ![image](https://github.com/user-attachments/assets/31d7007b-a54a-472a-b7eb-a83272648235)
-
-
     Вторая 
-
     ![image](https://github.com/user-attachments/assets/b8dbaeb1-5842-47f2-8f20-3c43fb3d385d)
-
-    
     Запросы 
     ![image](https://github.com/user-attachments/assets/3aa0c809-6c70-45a6-af16-50df864f8df1)
     csv 
