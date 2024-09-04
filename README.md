@@ -16,6 +16,7 @@
     Выгрузку в csv следующих данных: id игрока, название уровня, пройден ли уровень, полученный приз за уровень. Учесть, что записей может быть 100 000 и более.
 
     Первая часть 
+    <img src="https://github.com/user-attachments/assets/a812940e-1e62-4439-8395-f07c6d756572"></img>
     ![image](https://github.com/user-attachments/assets/786c3049-49d8-46f6-8bdd-e06437d23716)
     ![image](https://github.com/user-attachments/assets/a812940e-1e62-4439-8395-f07c6d756572)
 
