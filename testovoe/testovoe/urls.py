@@ -17,6 +17,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from second_task.views import export_players_level
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('csv/', export_players_level)
 ]

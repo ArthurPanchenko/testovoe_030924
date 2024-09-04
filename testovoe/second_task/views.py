@@ -1,3 +1,7 @@
 from django.shortcuts import render
 
-# Create your views here.
+from .models import PlayerLevel
+
+def export_players_level(request):
+    response = PlayerLevel.export_to_csv()
+    return response
