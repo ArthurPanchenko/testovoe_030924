@@ -17,6 +17,9 @@
 
     Первая часть 
     ![image](https://github.com/user-attachments/assets/786c3049-49d8-46f6-8bdd-e06437d23716)
+    ![image](https://github.com/user-attachments/assets/a812940e-1e62-4439-8395-f07c6d756572)
+
+
 
     Запросы
     ![image](https://github.com/user-attachments/assets/31d7007b-a54a-472a-b7eb-a83272648235)
