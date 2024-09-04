@@ -3,7 +3,7 @@
 Задание 1
    Нужно описать модели игрока и бустов с возможностью начислять игроку бусты за прохождение уровней или вручную.
 
-  Модель игрока 
+  Модель игрока \n
    ![image](https://github.com/user-attachments/assets/82542e0e-5ae7-447e-a49f-c5342832ab20)
   Модель бустов
   ![image](https://github.com/user-attachments/assets/ebb2a0c9-6935-4fce-b3f8-1f8638be4fef)
@@ -16,7 +16,7 @@
     Выгрузку в csv следующих данных: id игрока, название уровня, пройден ли уровень, полученный приз за уровень. Учесть, что записей может быть 100 000 и более.
 
     Первая часть 
-    ![image](https://github.com/user-attachments/assets/786c3049-49d8-46f6-8bdd-e06437d23716)
+    ![image](https://github.com/user-attachments/assets/786c3049-49d8-46f6-8bdd-e06437d23716 =1240x760)
 
     Запросы
     ![image](https://github.com/user-attachments/assets/31d7007b-a54a-472a-b7eb-a83272648235)
